@@ -1,7 +1,5 @@
 # CI/CD Pipeline Simulator
 
-## Overview
-
 A system that allows users to define, execute, and monitor CI/CD pipelines, similar to Jenkins or GitHub Actions.
 
 ---
@@ -138,7 +136,7 @@ cicd-pipeline-simulator/
 
 ---
 
-# Suggested Development Order
+## Development Order
 
 1. Build CI/CD Pipeline Simulator (MVP first)
 2. Add Docker-based execution
@@ -148,7 +146,7 @@ cicd-pipeline-simulator/
 
 ---
 
-# Notes
+## Notes
 
 * Start simple (MVP)
 * Focus on functionality before optimization
